@@ -1,46 +1,109 @@
-# Hi there, I'm Smruthi Ravindra 👋
-
-### 🚀 Software Development Engineer | AI & Computer Vision | UI/UX Designer
-I am a Computer Science & Engineering student at VVCE with a focus on building intelligent, scalable systems. A **Hackathon Winner** with a track record of taking complex problems—from agricultural disease prediction to automated academic evaluation—and turning them into functional, high-impact software.
-
----
-
-### 🛠️ My Tech Stack
-
-- **Backend & Core:** Java, Python, C++, SQL, Node.js
-- **Frontend & Design:** React.js, Tailwind CSS, Figma (UI/UX)
-- **AI & Vision:** OpenCV, YOLOv8, Image Processing
-- **Tools & Cloud:** Git, Docker, AWS, Linux Fundamentals
-
----
-
-### 🌟 Featured Projects
-
-- **[Mobile OMR Evaluation](https://github.com/SmruthiRavindra/Mobile-OMR):** An automated grading system utilizing **YOLOv8** and **OpenCV** to process non-standard OMR sheets with high precision.
-- **[AgriNexus](https://github.com/SmruthiRavindra/AgriNexus):** 🏆 *Award-winning project.* Integrated 3D modeling and Computer Vision to detect crop diseases and provide predictive health analytics.
-- **[MediSort](https://github.com/SmruthiRavindra/MediSort):** A healthcare-focused AI application for pill recognition and automated medication scheduling.
-- **[SkillSwap](https://github.com/SmruthiRavindra/SkillSwap):** A peer-to-peer architecture for skill exchange, focusing on seamless user experience and secure transactions.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Smruthi%20Ravindra&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  
+  <h2>Building Intelligent Systems that Solve Real-World Problems</h2>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/smruthiravindra">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📈 GitHub Ecosystem
+## 👩‍💻 Who Am I?
 
-![Smruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmruthiRavindra&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmruthiRavindra&layout=compact&theme=dark)
+I am a **Computer Vision Engineer | Full-Stack Developer | UI/UX Architect**
 
----
+I build systems where **AI meets scalable architecture**.
 
-### 🎯 Current Focus & Goals
-- 🔭 **In Development:** Scaling the **Mobile OMR System** for real-world deployment in educational institutions.
-- 🌱 **Learning:** Advancing my knowledge in **System Design** and **Distributed Systems**.
-- 💼 **Open to:** SDE Internships and Full-Stack roles where I can bridge the gap between AI and user-centric design.
-- 💬 **Ask me about:** Vision-based automation, UX research, or building project architectures from scratch.
+- 🎓 Final Year Engineering Student
+- 🏆 Hackathon Winner – AgriNexus (Agriculture AI)
+- 🔬 Currently building: Vision-based OMR Evaluator using YOLOv8
+- 🎯 Mission: Design intelligent products that impact healthcare & agriculture
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [https://linkedin.com/in/smruthi-ravindra-a39a60282) 
-- **Email:** [Your Professional Email]
+## 🧠 Core Expertise
+
+### 🤖 AI & Computer Vision
+- YOLOv8
+- OpenCV
+- Image Processing
+- Object Detection Pipelines
+
+### 🌐 Full-Stack Development
+- React.js
+- Node.js
+- Firebase
+- REST APIs
+
+### 🎨 UI/UX Engineering
+- Figma
+- Human-Centered Design
+- Rapid Prototyping
+
+### ☁️ DevOps & Cloud
+- AWS
+- Docker
+- Git & CI/CD
 
 ---
-*“Failure is just a beta version of success. Keep shipping.”*
+
+## 🌟 Signature Projects
+
+### 🔎 Mobile OMR Evaluator
+AI-powered grading system for non-standard answer sheets  
+**Tech:** Python • YOLOv8 • OpenCV  
+> Reduces manual evaluation errors by automating detection & scoring.
+
+---
+
+### 🌾 AgriNexus (Hackathon Winner 🏆)
+3D Crop Health Intelligence System  
+**Tech:** Python • Three.js • AI Models  
+> Built during a 24-hour hackathon. Delivered a deployable prototype.
+
+---
+
+### 💊 MediSort
+AI-based pill recognition & tracking system  
+**Tech:** React Native • Node.js • AI
+
+---
+
+### 🔄 SkillSwap
+Peer-to-peer skill exchange platform  
+**Tech:** React • Firebase • UX Design
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmruthiRavindra&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmruthiRavindra&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmruthiRavindra&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🔥 What Sets Me Apart?
+
+✔ Strong foundation in Data Structures & Algorithms  
+✔ Real-world hackathon execution ability  
+✔ Ability to merge design + engineering  
+✔ Focus on production-ready systems, not just demos  
+
+---
+
+<div align="center">
+  <h3>“Intelligence is not artificial. It is engineered.”</h3>
+</div>
