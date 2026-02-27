@@ -1,31 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Smruthi%20Ravindra&fontSize=60&animation=fadeIn&fontAlignY=35" />
-  
-  <h2>Building Intelligent Systems that Solve Real-World Problems</h2>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/smruthiravindra">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-    </a>
-    <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail" />
-    </a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,30:312e81,65:7c3aed,100:22d3ee&text=Smruthi%20Ravindra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<h2 style="color:#cbd5e1;">Engineering Intelligence • Designing Impact • Building the Future</h2>
+
+<br>
+
+<a href="https://www.linkedin.com/in/smruthiravindra">
+  <img src="https://img.shields.io/badge/LinkedIn-312e81?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/SmruthiRavindra">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 👩‍💻 Who Am I?
+## 🌠 About Me
 
-I am a **Computer Vision Engineer | Full-Stack Developer | UI/UX Architect**
-
-I build systems where **AI meets scalable architecture**.
-
-- 🎓 Final Year Engineering Student
-- 🏆 Hackathon Winner – AgriNexus (Agriculture AI)
-- 🔬 Currently building: Vision-based OMR Evaluator using YOLOv8
-- 🎯 Mission: Design intelligent products that impact healthcare & agriculture
-
+```yaml
+Name: Smruthi Ravindra
+Role: Computer Vision Engineer | Full Stack Developer | UI/UX Architect
+Specialization: AI-powered real-world systems
+Current Focus: Vision-based OMR Evaluator (YOLOv8 + OpenCV)
+Philosophy: Clean architecture. Human-centered design. Intelligent automation.
 ---
 
 ## 🧠 Core Expertise
@@ -48,7 +50,7 @@ I build systems where **AI meets scalable architecture**.
 - Rapid Prototyping
 
 ### ☁️ DevOps & Cloud
-- AWS
+- GCP
 - Docker
 - Git & CI/CD
 
