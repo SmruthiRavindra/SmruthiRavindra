@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,30:312e81,65:7c3aed,100:22d3ee&text=Smruthi%20Ravindra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h2 style="color:#cbd5e1;">Engineering Intelligence • Designing Impact • Building the Future</h2>
+<h2>Engineering Intelligence • Designing Impact • Building the Future</h2>
 
 <br>
 
@@ -18,9 +18,9 @@
 
 </div>
 
----
+<hr>
 
-## 🌠 About Me
+<h2 align="center">🌠 About Me</h2>
 
 ```yaml
 Name: Smruthi Ravindra
@@ -28,9 +28,10 @@ Role: Computer Vision Engineer | Full Stack Developer | UI/UX Architect
 Specialization: AI-powered real-world systems
 Current Focus: Vision-based OMR Evaluator (YOLOv8 + OpenCV)
 Philosophy: Clean architecture. Human-centered design. Intelligent automation.
----
+```
 
-<!-- Achievements & Focus -->
+<hr>
+
 <div align="center">
 
 <h2>🏆 Achievements & Focus</h2>
@@ -44,7 +45,6 @@ Philosophy: Clean architecture. Human-centered design. Intelligent automation.
 
 <hr>
 
-<!-- Technical Ecosystem -->
 <div align="center">
 
 <h2>⚡ Technical Ecosystem</h2>
@@ -52,41 +52,39 @@ Philosophy: Clean architecture. Human-centered design. Intelligent automation.
 <h3>🤖 AI & Computer Vision</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/YOLOv8-312e81?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-7c3aed?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image%20Processing-22d3ee?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/YOLOv8-312e81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-7c3aed?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image%20Processing-22d3ee?style=for-the-badge"/>
 </p>
 
 <h3>🌐 Full Stack Development</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/React-312e81?style=for-the-badge&logo=react&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-22d3ee?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-312e81?style=for-the-badge&logo=react&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-22d3ee?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 <h3>🎨 UI/UX Engineering</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-312e81?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design%20Systems-7c3aed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prototyping-22d3ee?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-312e81?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design%20Systems-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prototyping-22d3ee?style=for-the-badge"/>
 </p>
 
 <h3>☁️ Cloud & DevOps</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-312e81?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-22d3ee?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-312e81?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-22d3ee?style=for-the-badge&logo=git&logoColor=black"/>
 </p>
 
 </div>
 
 <hr>
-
-<!-- Signature Projects -->
 
 <h2 align="center">🌟 Signature Projects</h2>
 
@@ -115,8 +113,6 @@ Philosophy: Clean architecture. Human-centered design. Intelligent automation.
 
 <hr>
 
-<!-- GitHub Analytics -->
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -131,8 +127,6 @@ Philosophy: Clean architecture. Human-centered design. Intelligent automation.
 </div>
 
 <hr>
-
-<!-- Core Strengths -->
 
 <h2 align="center">🔥 Core Strengths</h2>
 
